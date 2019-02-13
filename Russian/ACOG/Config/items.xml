@@ -1,0 +1,18 @@
+<configs>
+<append xpath="/items">
+
+
+<!--
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+									Schematics and Components 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+
+<item name="ACOG Schematic">
+	<property name="Extends" value="schematicMaster"/>
+	<property name="DescriptionKey" value="schematicMaster2Desc"/>
+	<property name="CustomIcon" value="acogs"/>
+	<property name="EconomicValue" value="500"/>
+</item>
+</append>
+</configs>
